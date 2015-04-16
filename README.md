@@ -1,4 +1,5 @@
 <h2>1-PC组件</h2>
+*支持amd，cmd，或者直接引入<script>
 <ol>
 	<li><a href="1-1scroll">滚动条 -> 1-1scroll</a></li>
 	<li><a href="">回到顶部 -> 1-2toTop</a></li>
